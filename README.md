@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadamdam&show_icons=true&bg_color=DEG,e8f245,73C72D,5f9f29&title_color=395126&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadamdam&show_icons=true&bg_color=cdffa5&title_color=395126&text_color=395126&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=andy1423)](https://solved.ac/andy1423/)
